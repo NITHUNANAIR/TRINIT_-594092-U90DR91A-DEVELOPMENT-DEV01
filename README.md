@@ -5,14 +5,24 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ Rooting for a good cause
+ -------------------------
+ 
+   Philanthropic groups invest their funds in advancing society. They must, however, be prepared to do so. On the other hand, regional non-profit organisations (NGOs) depend on funding from different donors. In order to have a beneficial impact on society, there is an increasing demand for a platform that can connect philanthropists and NGOs. Finding and supporting the proper cause might now be a time-consuming process with little information available about how funds are being used.
 
-A few resources to get you started if this is your first Flutter project:
+OBJECTIVES
+-----------
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+--> Creating a centralised platform that makes it simple for donors to find and support NGOs working in causes close to their hearts is one of the project's main goals.
+To give benefactors thorough details about each NGO, including their goals, background, and impact, to aid in their decision-making.
 
-The major goal of this programme is to develop a single platform for NGOs and philanthropist. Its distinguishable donor and NGO dashboards detail the donations made to the relevant NGO and the funds received from the collaborative philanthropist, making it a standout feature.
+--> The major goal of this programme is to develop a single platform for NGOs and philanthropist. Its distinguishable donor and NGO dashboards detail the donations made to the relevant NGO and the funds received from the collaborative philanthropist, making it a standout feature.
+
+--> To provide real-time updates on the usage of funds and the results of donations in order to increase openness and accountability in the donation process.
+
+--> To give NGOs a means of expanding their audience and obtaining the resources they require to complete their goals.
+
+--> To improve cooperation and communication between benefactors and NGOs in order to increase the effectiveness of their initiatives.
 
 https://drive.google.com/drive/folders/11bNYmpVSjP7Ym6j11y2plkQVpJ5JcpW7
 
